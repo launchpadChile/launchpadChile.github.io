@@ -1,0 +1,25 @@
+header.masthead {
+    background: url(../img/launchpad.jpg) no-repeat top center fixed;
+    background-size: cover;
+}
+
+.tac {
+  text-align:center;
+}
+
+.lp-color {
+  color:#ff914c!important;
+}
+
+.lp-btn {
+  background-color: #ff914c!important;
+  border-color: #ff914c!important;
+}
+
+.switch-background {
+  /* background-color: #212529!important; */
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}

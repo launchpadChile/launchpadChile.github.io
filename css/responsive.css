@@ -1,0 +1,5 @@
+@media (min-width: 768px) {
+  header.masthead {
+      padding-top: 18rem;
+      padding-bottom: 18rem;
+}
