@@ -1,3 +1,33 @@
+.fs-32 {
+  font-size:32px!important;
+}
+
+.fm-os {
+  font-family: 'Open Sans';
+}
+
+.hover-color-white:hover {
+  color:white!important;
+}
+
+#mainNav {
+    background-color: #1c1f27;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active {
+  color: #ff914c!important;
+}
+
+.circulo {
+   width: 40px;
+   height: 40px;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   background: #ff914c;
+   padding:0!important;
+}
+
 header.masthead {
     background: url(../img/launchpad.jpg) no-repeat top center fixed;
     background-size: cover;
